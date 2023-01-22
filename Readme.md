@@ -14,6 +14,7 @@ Header
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-090909.svg?style=for-the-badge&logo=kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-090909.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
 ### Learning languages:
