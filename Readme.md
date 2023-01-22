@@ -10,7 +10,7 @@ Header
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-090909.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Java-090909.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-090909.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### Learning languages:
