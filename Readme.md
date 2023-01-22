@@ -11,6 +11,9 @@ Header
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-090909.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-090909.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-090909.svg?style=for-the-badge&logo=kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-090909.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ### Learning languages:
